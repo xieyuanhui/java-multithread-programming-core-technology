@@ -2,32 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1a85d65-ba4a-48c9-b282-c7d5a94c7c29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chapter1/t12/Run2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/t12/Run3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/t13/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/t13/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/t13forprint/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/t13forprint/Run.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThreadStudy/META-INF/ThreadStudy.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ThreadStudy/chapter1/t12/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadStudy/chapter1/t12/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThreadStudy/leetcode/Solution.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapter1/t12/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t12/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/NumCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/NumCounterSpliterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/NumCounterSpliterator2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/NumCounterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/NumCounterTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/Spliterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/TestSpliterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/CoarseSync.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/CoarseSync.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/DaemonDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/DeadLockDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/HashMapTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/InterruptDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/JoinDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/StringTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/SyncBlockAndMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/SyncBlockAndMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/SynchronizedDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/IOClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/IOServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/Solution.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,10 +23,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter1/t12/Run.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter1/t13forprint/MyThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
+            <state relative-caret-position="75">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -67,11 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter1/Test.java" />
-        <option value="$PROJECT_DIR$/src/chapter1/t1/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/chapter1/t1/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter1/random_thread/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/chapter1/z/Test.java" />
         <option value="$PROJECT_DIR$/src/chapter1/t2/MyRunnable.java" />
         <option value="$PROJECT_DIR$/src/chapter1/t2/Run.java" />
         <option value="$PROJECT_DIR$/src/chapter1/t3/Run.java" />
@@ -118,6 +97,11 @@
         <option value="$PROJECT_DIR$/src/demo/CoarseSync.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/chapter1/t12/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter1/t12/Run2.java" />
+        <option value="$PROJECT_DIR$/src/chapter1/t12/Run3.java" />
+        <option value="$PROJECT_DIR$/src/chapter1/t13/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter1/t13/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter1/t13forprint/MyThread.java" />
       </list>
     </option>
   </component>
@@ -142,57 +126,50 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ThreadStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThreadStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="java-multithread-programming-core-technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-multithread-programming-core-technology" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ThreadStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThreadStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="java-multithread-programming-core-technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-multithread-programming-core-technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ThreadStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThreadStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ThreadStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThreadStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="java-multithread-programming-core-technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-multithread-programming-core-technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter1" type="462c0819:PsiDirectoryNode" />
-              <item name="currentThreadExt" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ThreadStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThreadStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="java-multithread-programming-core-technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-multithread-programming-core-technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter1" type="462c0819:PsiDirectoryNode" />
-              <item name="t12" type="462c0819:PsiDirectoryNode" />
+              <item name="t13" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ThreadStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThreadStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="java-multithread-programming-core-technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-multithread-programming-core-technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter1" type="462c0819:PsiDirectoryNode" />
-              <item name="z" type="462c0819:PsiDirectoryNode" />
+              <item name="t13forprint" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558439191780" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558441872580" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -200,6 +177,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\IDEAProjects\java-multithread-programming-core-technology\src\chapter1\t13forprint" />
       <recent name="E:\Projects\IDEAProjects\ThreadStudy\src\demo" />
     </key>
   </component>
@@ -215,13 +193,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run">
-    <configuration name="IOClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.IOClient" />
+  <component name="RunManager" selected="Application.Run (2)">
+    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.t13.Run" />
       <module name="ThreadStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.*" />
+          <option name="PATTERN" value="chapter1.t13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.IOServer" />
+    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.t13forprint.Run" />
       <module name="ThreadStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.*" />
+          <option name="PATTERN" value="chapter1.t13forprint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,12 +233,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.StringTest" />
+    <configuration name="Run2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.t12.Run2" />
       <module name="ThreadStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="chapter1.t12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.random_thread.Test" />
+    <configuration name="Run3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.t12.Run3" />
       <module name="ThreadStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.random_thread.*" />
+          <option name="PATTERN" value="chapter1.t12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Run (2)" />
+        <item itemvalue="Application.Run (1)" />
+        <item itemvalue="Application.Run3" />
         <item itemvalue="Application.Run" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.StringTest" />
-        <item itemvalue="Application.IOClient" />
-        <item itemvalue="Application.IOServer" />
+        <item itemvalue="Application.Run2" />
       </list>
     </recent_temporary>
   </component>
@@ -314,16 +292,18 @@
       <workItem from="1557905330123" duration="461000" />
       <workItem from="1558229283374" duration="224000" />
       <workItem from="1558432762991" duration="1727000" />
+      <workItem from="1558439491124" duration="2282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36946000" />
+    <option name="totallyTimeSpent" value="39228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26742628" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2707775" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -332,7 +312,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3548387" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3548387" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -361,58 +341,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t6/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t6/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/currentThreadExt/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t7/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-          <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t7/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/isaliveOtherTest/CountOperate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter1/isaliveOtherTest/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -479,16 +407,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collection/NumCounterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collection/NumCounterTest.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/stream/PipelineHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
@@ -503,30 +422,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collection/NumCounterTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collection/NumCounterSpliterator2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-117">
-          <caret line="36" column="31" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-            <element signature="e#791#792#0" expanded="true" />
-            <element signature="e#841#842#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collection/NumCounterTest2.java" />
+    <entry file="file://$PROJECT_DIR$/src/collection/NumCounterSpliterator2.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4075">
@@ -556,40 +453,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collection/Spliterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5650">
-          <caret line="243" selection-end-line="259" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collection/TestSpliterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" selection-start-line="11" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/InterruptDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/StringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collection/Spliterator.java" />
+    <entry file="file://$PROJECT_DIR$/src/collection/TestSpliterator.java" />
+    <entry file="file://$PROJECT_DIR$/src/demo/InterruptDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/demo/StringTest.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter1/random_thread/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -618,111 +485,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collection/NumCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="25" column="93" selection-start-line="25" selection-start-column="93" selection-end-line="25" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collection/NumCounterSpliterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="55" column="64" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1452#1453#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/JoinDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding>
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/IOClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/IOServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-435">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/SyncBlockAndMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/SyncBlockAndMethod.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/SynchronizedDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/HashMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-79">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/DeadLockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/DaemonDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/CoarseSync.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/CoarseSync.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="764">
-          <caret line="32" column="61" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collection/NumCounter.java" />
+    <entry file="file://$PROJECT_DIR$/src/collection/NumCounterSpliterator.java" />
+    <entry file="file://$PROJECT_DIR$/src/demo/JoinDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/IOClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/IOServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/demo/SyncBlockAndMethod.java" />
+    <entry file="file://$PROJECT_DIR$/src/demo/SyncBlockAndMethod.class" />
+    <entry file="file://$PROJECT_DIR$/src/demo/SynchronizedDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/demo/HashMapTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/demo/DeadLockDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/demo/DaemonDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/demo/CoarseSync.class" />
+    <entry file="file://$PROJECT_DIR$/src/demo/CoarseSync.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Solution.java" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -761,10 +537,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/t12/Run2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter1/t12/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
+        <state relative-caret-position="325">
+          <caret line="13" column="68" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/t12/Run3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/t13/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/t13forprint/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/t13/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/t13forprint/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
         </state>
       </provider>
     </entry>
