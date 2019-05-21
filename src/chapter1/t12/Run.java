@@ -12,7 +12,7 @@ public class Run {
             myThread.sleep(1000);
             myThread.interrupt();
             System.out.println("是否停止1 ？ = " + myThread.isInterrupted());
-            System.out.println("是否停止2 ？ = " + myThread.isInterrupted());
+            System.out.println("是否停止2 ？ = " + myThread.interrupted());
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
